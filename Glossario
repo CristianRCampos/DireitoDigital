@@ -134,8 +134,30 @@ Liberdade para Distribuir: Você pode distribuir cópias do software, tanto em s
 No entanto, a GPL também impõe uma condição importante: se você distribuir uma versão modificada do software, também deve disponibilizar o código-fonte dessa versão modificada e conceder as mesmas liberdades 
 a outras pessoas. 
 
-O que é GNU FDL, GNU LGPL, GNU AGPL, Licença livre e Copyleft
+O que é GNU FDL, GNU LGPL, GNU AGPL, Licença livre e Copyleft?
+O Projeto GNU, liderado por Richard Stallman, desenvolveu várias licenças de software livre e de código aberto para promover a liberdade do software e garantir que os princípios
+do movimento de software livre sejam preservados.
+GNU FDL (GNU Free Documentation License): é uma licença projetada para documentos e obras de documentação, como manuais, livros, guias e outros textos. 
+Ela permite que autores e criadores de documentação distribuam seu trabalho de forma gratuita e garante que os usuários tenham a liberdade de copiar, modificar e redistribuir a documentação.
+GNU LGPL (GNU Lesser General Public License): é uma licença de código aberto que permite que bibliotecas de software sejam vinculadas a programas proprietários sem forçar esses programas 
+a serem liberados como software livre. Ela é usada principalmente para bibliotecas de software e componentes que podem ser incorporados em outros programas. 
+GNU AGPL (GNU Affero General Public License): é uma variante da GPL projetada para aplicativos de software que são executados em servidores de rede e disponibilizados aos usuários pela internet.
+A AGPL garante que, se alguém modificar um aplicativo AGPL e o implantar em um servidor, as modificações também devem ser disponibilizadas publicamente. 
 
+Licença Livre (Free License): Uma licença livre, no contexto do software, refere-se a uma licença que concede aos usuários as quatro liberdades essenciais: 
+a liberdade de usar o software para qualquer finalidade, estudar como ele funciona, modificar o software de acordo com suas necessidades e redistribuir cópias do software. 
+Copyleft: é uma filosofia de licenciamento que se baseia em licenças que garantem que as liberdades do software sejam preservadas em todas as versões derivadas. 
+Isso significa que, se você criar uma nova versão de um programa de software licenciado sob uma licença de copyleft, 
+a nova versão também deve ser licenciada sob a mesma licença e manter as mesmas liberdades.
 
 Identifique as principais licenças quando um repositório é criado no GitHub
+Licença MIT: é uma licença de código aberto permissiva que permite que as pessoas usem, modifiquem e redistribuam o código do seu projeto,
+desde que incluam a notificação de direitos autorais e isenção de responsabilidade. 
+Licença Apache 2.0: é outra licença permissiva que permite o uso, modificação e redistribuição do código, desde que os termos da licença sejam seguidos. 
+Licença GPL (GNU General Public License): é uma licença de copyleft que exige que qualquer projeto derivado também seja licenciado sob os termos da GPL.
+Isso significa que os projetos derivados devem ser mantidos como software livre.
+Licença LGPL (GNU Lesser General Public License).
+Licença BSD: é outra licença permissiva que permite o uso, modificação e redistribuição do código, desde que a notificação de direitos autorais seja mantida.
+Licença GPL Affero (GNU Affero General Public License): é uma variante da GPL que se aplica a software distribuído em servidores de rede.
+Ela exige que, se você modificar o software e oferecê-lo como um serviço pela web, você deve disponibilizar o código-fonte das modificações.
 
