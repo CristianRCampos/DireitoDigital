@@ -80,3 +80,62 @@ raça, origem étnica, religião, orientação sexual, deficiência ou qualquer 
 Direito à segurança:
 É um princípio que busca garantir que as pessoas tenham proteção e resguardem sua integridade física, mental e propriedade contra ameaças, perigos e atos de violência.
 Esse direito é fundamental para a preservação da dignidade humana e para que as pessoas possam desfrutar de uma vida segura e tranquila.
+
+Oque é Direito de Licença: 
+Refere-se ao direito concedido a uma pessoa ou entidade para realizar determinada atividade ou usar algo que, de outra forma, seria proibido ou restrito. Esse direito pode ser concedido através de um contrato, 
+regulamentos governamentais, leis ou acordos específicos, e sua natureza e alcance podem variar dependendo do contexto.
+Alguns exemplo de Direito de Licença são : Propriedade Intelectual, negocios, condição, porte de armas, caça, ambiental. 
+O direito de licença representa a permissão legal para realizar uma atividade específica, e a concessão de uma licença muitas vezes vem com a obrigação de cumprir certas condições ou regulamentos
+estabelecidos pelas autoridades competentes.
+
+Oque é Direito Autoral:
+Também conhecido como direito de autor ou copyright (termo em inglês), é um ramo do direito que protege os direitos dos criadores de obras intelectuais e artísticas. 
+Essas obras podem incluir livros, músicas, filmes, pinturas, esculturas, software, fotografias e muitos outros tipos de criações intelectuais. 
+O objetivo do direito autoral é incentivar a criatividade e a produção de obras originais, garantindo que os criadores tenham controle sobre o uso e a distribuição de suas criações e possam receber compensação
+por seu trabalho.
+O Direito Autoral da proteção contra Plágio e Violação, Proteção da Criação.
+Duração da Proteção: Os direitos autorais têm uma duração limitada, que varia de acordo com a jurisdição, mas geralmente dura durante a vida do autor mais 50/70 anos.
+
+
+Realize uma pesquisa sobre licenças de software, leia com atenção e incremente seu glossário, respondendo as questões:
+
+O que é e para que serve uma licença de software?
+É um contrato legal entre o proprietário dos direitos autorais de um programa de computador (geralmente uma empresa de software) e o usuário final. 
+Essa licença estabelece os termos e condições sob os quais o software pode ser usado, distribuído e acessado pelo usuário, uma licença de software define os direitos e as restrições associados ao uso desse software.
+Os objetivos de uma licença de software são:
+Concessão de Direitos de Uso, Restrições de Uso, Transferência de Licença, Atualizações e Suporte, Propriedade Intelectual, Limitações Geográficas, Conformidade Legal e Termos de Cancelamento.
+
+
+O que é Software Proprietário, Software de Domínio Público, Adware, Freeware, Shareware, Software de código aberto?
+Software Proprietário: é um tipo de software que é detido e controlado por uma empresa ou indivíduo. 
+Os usuários recebem uma licença para usar o software de acordo com os termos e condições estabelecidos pelo proprietário. 
+Normalmente, os detalhes do código-fonte do software são mantidos em sigilo, o que significa que os usuários não têm acesso ao código-fonte para modificar ou distribuir o software. 
+Exemplo: Microsoft e Microsoft Office.
+Software de Domínio Público: é aquele em que os direitos autorais foram deliberadamente renunciados pelo autor ou expiraram.
+Isso significa que qualquer pessoa pode usar, modificar, distribuir e até mesmo vender o software sem restrições legais.
+Adware: é um tipo de software que exibe anúncios em um programa de computador. Geralmente, ele é distribuído junto com software gratuito e pode ser considerado indesejado, 
+pois exibe anúncios intrusivos e pode coletar informações sobre os hábitos de navegação do usuário.
+Freeware: é um tipo de software que é distribuído gratuitamente e pode ser usado sem custo. No entanto, o código-fonte do software geralmente não é fornecido, 
+e os usuários não têm permissão para modificar ou redistribuir o software sem a autorização do autor. 
+Shareware: é um modelo de distribuição de software em que os usuários podem baixar e usar o software gratuitamente por um período de teste.
+Após esse período, eles são incentivados a comprar uma licença para continuar usando o software. 
+Software de Código Aberto: é um tipo de software cujo código-fonte é disponibilizado para o público. Isso significa que qualquer pessoa pode visualizar, modificar,
+distribuir e usar o software de acordo com os termos da licença de código aberto, que geralmente permite a livre redistribuição e modificação. 
+Exemplo:Linux
+
+O que é GNU General Public License?
+É uma das licenças de código aberto mais conhecidas e amplamente usadas no mundo do software livre e de código aberto (FOSS, sigla em inglês para Free and Open Source Software). 
+A GPL foi criada pelo ativista de software livre Richard Stallman e é mantida pela Free Software Foundation (FSF).
+A principal característica da GPL é sua ênfase na liberdade do software. Ela estabelece as seguintes condições principais:
+Liberdade para Usar: Você pode usar o software para qualquer finalidade.
+Liberdade para Estudar: Você tem o direito de acessar o código-fonte do software para estudá-lo e entender como funciona.
+Liberdade para Modificar: Você pode modificar o software para atender às suas necessidades e preferências.
+Liberdade para Distribuir: Você pode distribuir cópias do software, tanto em sua forma original quanto modificada, para outras pessoas.
+No entanto, a GPL também impõe uma condição importante: se você distribuir uma versão modificada do software, também deve disponibilizar o código-fonte dessa versão modificada e conceder as mesmas liberdades 
+a outras pessoas. 
+
+O que é GNU FDL, GNU LGPL, GNU AGPL, Licença livre e Copyleft
+
+
+Identifique as principais licenças quando um repositório é criado no GitHub
+
